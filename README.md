@@ -34,27 +34,39 @@
 
 ## Código Fuente
 
-* Lección 1
+* Prototipo 1
  * > [Aplicacion carrito ](https://drive.google.com/file/d/1_9KCK-n8LZtIXSdiiFHwCA6meHSGmELP/view?usp=sharing)
  
-* Lección 2
+* Prototipo 2
   * > [Aplicacion Animales ](https://drive.google.com/file/d/1RvjzOIMaC_Mfnp_j5rRm_X8_L6fgGmck/view?usp=drive_link)
   * > [Evidencias](https://docs.google.com/document/d/1ZNbpsChCzbBvbuQC7AhkVM_2Phe6KYko/edit?usp=drive_link&ouid=111005482770613600298&rtpof=true&sd=true)
  
-* Lección 3
+* Animacion 2D 1
   * > [Aplicacion Animaciones 2D parte 1 ](https://drive.google.com/file/d/1xEE88T3yAibwaD5-E00e0p3Cu4ZRRFq9/view?usp=drive_link)
   * > [Evidencias Animaciones 2D parte 1 ](https://docs.google.com/document/d/1zb94AEzfBWOKSQh2MQOhHV06CKK33M2m/editusp=drive_link&ouid=111005482770613600298&rtpof=true&sd=true)
 
-* Lección 4
-  * > Tutorial
-  * > Laboratorio
-  * > Desafío
-  * > Prueba
-* Lección 5
-  * > Tutorial
-  * > Laboratorio
-  * > Desafío
-  * > Prueba
+* Animacion 2D 2
+  * > Aplicacion
+  * > Evidencias
+  
+* Animacion 2D 3
+  * > Aplicacion
+  * > Evidencias
+* VideoJuego
+
+*Animacion 2D 4
+  * > Aplicacion
+  * > Evidencias
+    
+ *Animacion 2D 5
+  * > Aplicacion
+  * > Evidencias
+
+*Animacion 2D 6
+  * > Aplicacion
+  * > Evidencias
+
+    
 * VideoJuego
 
 ## Planificación
