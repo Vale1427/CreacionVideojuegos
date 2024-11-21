@@ -42,7 +42,7 @@
   * > [Evidencias](https://docs.google.com/document/d/1ZNbpsChCzbBvbuQC7AhkVM_2Phe6KYko/edit?usp=drive_link&ouid=111005482770613600298&rtpof=true&sd=true)
 
 * Change 1
-  * > [Aplicacion ](https://drive.google.com/file/d/1nMzfxMzfGf1HjBiGkfUb2NHXa4S0_mNY/view?usp=sharing)
+  * > [Aplicacion avioneta](https://drive.google.com/file/d/1nMzfxMzfGf1HjBiGkfUb2NHXa4S0_mNY/view?usp=sharing)
   * > [Evidencias](https://docs.google.com/document/d/1dT1j_VVUOQrt5_qmwf7OfYhqaeLVACTe/edit?usp=drive_link&ouid=111005482770613600298&rtpof=true&sd=true)
  
  
